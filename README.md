@@ -10,4 +10,4 @@
 
 ----
 
-Hello, I am Xiaomao. Feel free to communicate with me in Chinese or English. I am capable of ultilizing Python (with sagemath) for simple computational tasks, doing funny things with NodeJS, and performing simple numerical calculations using C. Whenever you wanna get in touch, you can reach me through email and social media accounts. Should you find my work interesting, please feel free to contact me. Thank you for your attention and support.
+Hello, I am 小猫 (you can call me nekoist). Feel free to communicate with me in Chinese or English. I am capable of ultilizing Python (with sagemath) for simple computational tasks, doing funny things with NodeJS, and performing simple numerical calculations using C. Whenever you wanna get in touch, you can reach me through email and social media accounts. Should you find my work interesting, please feel free to contact me. Thank you for your attention and support.
